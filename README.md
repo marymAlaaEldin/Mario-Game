@@ -2,5 +2,5 @@
 2D game with two different levels.
 
 ## TOOLS
-C++
+C++, 
 SFML
